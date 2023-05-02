@@ -2,6 +2,7 @@
 .container{
 	display:flex;
 	position:center;
+	border-top-width:2px;
 }
 .item{
 	background-color:lightblue;
