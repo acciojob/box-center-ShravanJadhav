@@ -2,10 +2,11 @@
 .container{
 	display:flex;
 	position:center;
-	border:2px;
+	border-top-width:2px;
 }
 .item{
 	background-color:lightblue;
 	border: 2px solid black;
 	padding:20px;
+	border-width:2px;
 }
